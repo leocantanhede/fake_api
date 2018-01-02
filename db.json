@@ -2,8 +2,8 @@
     { "id": 1, "autor": "Sunda", "conteudo": "Post 1" },
     { "id": 2, "autor": "Loxa", "conteudo": "Post 2" },
     { "id": 3, "autor": "Mário", "conteudo": "Post 3" }
-]}
-{"noticias": [
+],
+"noticias": [
     {"id": 1, "data": "31/12/2017", "status": true, "destaque": true, "titulo": "Teste 1", "conteudo": "Teste 1"},
     {"id": 2, "data": "01/01/2018", "status": false, "destaque": false, "titulo": "Teste 2", "conteudo": "Teste 2"},
     {"id": 3, "data": "02/01/2018", "status": true, "destaque": false, "titulo": "Teste 3", "conteudo": "Teste 3"}
