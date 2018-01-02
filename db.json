@@ -1,7 +1,7 @@
 {"depoimentos": [
-    { "id": 1, "autor": "Sunda", "conteudo": "Post 1" },
-    { "id": 2, "autor": "Loxa", "conteudo": "Post 2" },
-    { "id": 3, "autor": "Mário", "conteudo": "Post 3" }
+    {"id": 1, "autor": "Sunda", "conteudo": "Post 1"},
+    {"id": 2, "autor": "Loxa", "conteudo": "Post 2"},
+    {"id": 3, "autor": "Mário", "conteudo": "Post 3"}
 ],
 "noticias": [
     {"id": 1, "data": "31/12/2017", "status": true, "destaque": true, "titulo": "Teste 1", "conteudo": "Teste 1"},
