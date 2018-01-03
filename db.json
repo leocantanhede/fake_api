@@ -7,4 +7,9 @@
     {"id": 1, "data": "31/12/2017", "status": true, "destaque": true, "titulo": "Teste 1", "conteudo": "Teste 1"},
     {"id": 2, "data": "01/01/2018", "status": false, "destaque": false, "titulo": "Teste 2", "conteudo": "Teste 2"},
     {"id": 3, "data": "02/01/2018", "status": true, "destaque": false, "titulo": "Teste 3", "conteudo": "Teste 3"}
+],
+"banners": [
+    {"id": 1, "titulo": "Teste 1", "link": "http://www.google.nl", "tipoJanela": 2, "imagem": "teste1.png"},
+    {"id": 2, "titulo": "Teste 2", "link": "http://www.google.ie", "tipoJanela": 1, "imagem": "teste2.png"},
+    {"id": 3, "titulo": "Teste 3", "link": "http://www.google.com", "tipoJanela": 2, "imagem": "teste3.png"}
 ]}
