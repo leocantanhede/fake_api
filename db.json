@@ -12,4 +12,9 @@
     {"id": 1, "titulo": "Teste 1", "link": "http://www.google.nl", "tipoJanela": 2, "imagem": "teste1.png", "ativo": true},
     {"id": 2, "titulo": "Teste 2", "link": "http://www.google.ie", "tipoJanela": 1, "imagem": "teste2.png", "ativo": true},
     {"id": 3, "titulo": "Teste 3", "link": "http://www.google.com", "tipoJanela": 2, "imagem": "teste3.png", "ativo": false}
+],
+"especialidades": [
+    {"id": 1, "nome": "Teste 1", "ativo": true, "descricao": "Sunda", "imagem": "teste1.png"},
+    {"id": 2, "nome": "Teste 2", "ativo": true, "descricao": "Loxa", "imagem": "teste2.png"},
+    {"id": 3, "nome": "Teste 3", "ativo": false, "descricao": "Mário", "imagem": "teste3.png"}
 ]}
