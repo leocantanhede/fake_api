@@ -17,4 +17,9 @@
     {"id": 1, "nome": "Teste 1", "ativo": true, "descricao": "Sunda", "imagem": "teste1.png"},
     {"id": 2, "nome": "Teste 2", "ativo": true, "descricao": "Loxa", "imagem": "teste2.png"},
     {"id": 3, "nome": "Teste 3", "ativo": false, "descricao": "Mário", "imagem": "teste3.png"}
+],
+"entidades": [
+    {"id": 1, "nome": "Sunda", "nomeAbreviado": "sundinha", "ativo": true, "css": "label {font-style: italic}"},
+    {"id": 2, "nome": "Loxa", "nomeAbreviado": "loxinha", "ativo": true, "css": "label {font-family: monospace}"},
+    {"id": 3, "nome": "Inês", "nomeAbreviado": "inêsinha", "ativo": false, "css": "label {font-weight: bold}"}
 ]}
