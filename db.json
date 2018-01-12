@@ -24,11 +24,11 @@
     {"id": 3, "nome": "Inês", "nomeAbreviado": "inêsinha", "ativo": false, "css": "label {font-weight: bold;}"}
 ],
 "newsletters": [
-    {"id": 1, "email": "loxa@acme.com"}"},
-    {"id": 2, "email": "sunda@acme.com"}"},
-    {"id": 3, "email": "mario@acme.com"}"},
-    {"id": 4, "email": "ines@acme.com"}"},
-    {"id": 5, "email": "tim@acme.com"}"},
-    {"id": 6, "email": "alex@acme.com"}"},
-    {"id": 7, "email": "roi@acme.com"}"}
+    {"id": 1, "email": "loxa@acme.com"},
+    {"id": 2, "email": "sunda@acme.com"},
+    {"id": 3, "email": "mario@acme.com"},
+    {"id": 4, "email": "ines@acme.com"},
+    {"id": 5, "email": "tim@acme.com"},
+    {"id": 6, "email": "alex@acme.com"},
+    {"id": 7, "email": "roi@acme.com"}
 ]}
