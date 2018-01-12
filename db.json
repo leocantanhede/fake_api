@@ -1,1 +1,8 @@
 
+{"newsletters": [
+    {"id": 1, "email": "loxa@acme.com"},
+    {"id": 2, "email": "sunda@acme.com"},
+    {"id": 3, "email": "mario@acme.com"},
+    {"id": 4, "email": "ines@acme.com"},
+    {"id": 5, "email": "tim@acme.com"}
+]}
