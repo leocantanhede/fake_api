@@ -27,11 +27,5 @@
     {"id": 19, "description": "09:00"}, {"id": 20, "description": "09:30"}, {"id": 21, "description": "10:00"},
     {"id": 22, "description": "10:30"}, {"id": 23, "description": "11:00"}, {"id": 24, "description": "11:30"},
     {"id": 25, "description": "12:00"}, {"id": 26, "description": "12:30"}, {"id": 27, "description": "13:00"},
-    {"id": 28, "description": "13:30"}, {"id": 29, "description": "14:00"}, {"id": 30, "description": "14:30"},
-    {"id": 31, "description": "15:00"}, {"id": 32, "description": "15:30"}, {"id": 33, "description": "16:00"},
-    {"id": 34, "description": "16:30"}, {"id": 35, "description": "17:00"}, {"id": 36, "description": "17:30"},
-    {"id": 37, "description": "18:00"}, {"id": 38, "description": "18:30"}, {"id": 39, "description": "19:00"},
-    {"id": 40, "description": "19:30"}, {"id": 41, "description": "20:00"}, {"id": 42, "description": "20:30"},
-    {"id": 43, "description": "21:00"}, {"id": 44, "description": "21:30"}, {"id": 45, "description": "22:00"},
-    {"id": 46, "description": "22:30"}, {"id": 47, "description": "23:00"}, {"id": 48, "description": "23:30"}
+    {"id": 28, "description": "13:30"}, {"id": 29, "description": "14:00"}, {"id": 30, "description": "14:30"}
 ]}
