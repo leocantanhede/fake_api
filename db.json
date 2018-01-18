@@ -7,4 +7,31 @@
     {"id": 5, "email": "tim@acme.com"},
     {"id": 6, "email": "alex@acme.com"},
     {"id": 7, "email": "roi@acme.com"}
+],
+'days': [
+ {'id': 1, 'description': 'Segunda'}, 
+ {'id': 2, 'description': 'Terça'}, 
+ {'id': 3, 'description': 'Quarta'},
+ {'id': 4, 'description': 'Quinta'}, 
+ {'id': 5, 'description': 'Sexta'}, 
+ {'id': 6, 'description': 'Sábado'},
+ {'id': 7, 'description': 'Domingo'}
+],
+'hours': [
+    {'id': 1, 'description': '00:00'}, {'id': 2, 'description': '00:30'}, {'id': 3, 'description': '01:00'},
+    {'id': 4, 'description': '01:30'}, {'id': 5, 'description': '02:00'}, {'id': 6, 'description': '02:30'},
+    {'id': 7, 'description': '03:00'}, {'id': 8, 'description': '03:30'}, {'id': 9, 'description': '04:00'},
+    {'id': 10, 'description': '04:30'}, {'id': 11, 'description': '05:00'}, {'id': 12, 'description': '05:30'},
+    {'id': 13, 'description': '06:00'}, {'id': 14, 'description': '06:30'}, {'id': 15, 'description': '07:00'},
+    {'id': 16, 'description': '07:30'}, {'id': 17, 'description': '08:00'}, {'id': 18, 'description': '08:30'},
+    {'id': 19, 'description': '09:00'}, {'id': 20, 'description': '09:30'}, {'id': 21, 'description': '10:00'},
+    {'id': 22, 'description': '10:30'}, {'id': 23, 'description': '11:00'}, {'id': 24, 'description': '11:30'},
+    {'id': 25, 'description': '12:00'}, {'id': 26, 'description': '12:30'}, {'id': 27, 'description': '13:00'},
+    {'id': 28, 'description': '13:30'}, {'id': 29, 'description': '14:00'}, {'id': 30, 'description': '14:30'},
+    {'id': 31, 'description': '15:00'}, {'id': 32, 'description': '15:30'}, {'id': 33, 'description': '16:00'},
+    {'id': 34, 'description': '16:30'}, {'id': 35, 'description': '17:00'}, {'id': 36, 'description': '17:30'},
+    {'id': 37, 'description': '18:00'}, {'id': 38, 'description': '18:30'}, {'id': 39, 'description': '19:00'},
+    {'id': 40, 'description': '19:30'}, {'id': 41, 'description': '20:00'}, {'id': 42, 'description': '20:30'},
+    {'id': 43, 'description': '21:00'}, {'id': 44, 'description': '21:30'}, {'id': 45, 'description': '22:00'},
+    {'id': 46, 'description': '22:30'}, {'id': 47, 'description': '23:00'}, {'id': 48, 'description': '23:30'}
 ]}
